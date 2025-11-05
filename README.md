@@ -66,8 +66,6 @@ Agile environments move fast, and so do I. I can switch between automation scrip
 
 ---
 
----
-
 ## 🚧 Projects (Under Construction) 💖✨
 
 <p style="text-align:center; color:#FF69B4; font-size:16px;">
