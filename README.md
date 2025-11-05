@@ -125,4 +125,5 @@ If that sounds like your vibe, let’s chat!
 
 ---
 
-> 💬 *“Quality is never an accident; it is always the result of intelligent effort.”* – J
+> 💬 *“Quality is never an accident; it is always the result of intelligent effort.”* – John Ruskin  
+
